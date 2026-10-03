@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "clipcrew": {
+      "url": "https://mcp.clipcrew.ai/api/mcp"
+    }
+  }
+}

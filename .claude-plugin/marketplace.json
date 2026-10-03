@@ -1,0 +1,15 @@
+{
+  "name": "clipcrew",
+  "description": "The ClipCrew plugin for Claude Code.",
+  "owner": {
+    "name": "ClipCrew",
+    "email": "hello@clipcrew.ai"
+  },
+  "plugins": [
+    {
+      "name": "clipcrew",
+      "source": "./",
+      "description": "See what a clip job would use for a YouTube video, check a sponsor script or caption for ad disclosure, and see how often a YouTube channel posts."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "clipcrew",
+  "displayName": "ClipCrew",
+  "version": "1.0.2",
+  "description": "See what a clip job would use for a YouTube video, check a sponsor script or caption for ad disclosure, and see how often a YouTube channel posts. ClipCrew turns long videos in Tamil, Telugu, Hindi or English into short clips.",
+  "author": {
+    "name": "Innoverse Media LLC",
+    "email": "hello@clipcrew.ai",
+    "url": "https://clipcrew.ai"
+  },
+  "homepage": "https://clipcrew.ai",
+  "repository": "https://github.com/clipcrewai/clipcrew-plugin",
+  "license": "MIT",
+  "keywords": ["clips", "shorts", "creators", "ad-disclosure", "tamil", "telugu", "hindi"],
+  "mcpServers": "./claude/mcp.json"
+}

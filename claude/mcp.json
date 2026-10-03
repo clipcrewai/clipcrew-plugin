@@ -1,0 +1,6 @@
+{
+  "clipcrew": {
+    "type": "http",
+    "url": "https://mcp.clipcrew.ai/api/mcp"
+  }
+}
